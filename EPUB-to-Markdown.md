@@ -30,6 +30,8 @@ node -v
 ---
 
 ## 📥 2. 下载 & 安装 epub2md
+- [epub2md库来源](https://github.com/uxiew/epub2MD?tab=readme-ov-file)
+
 安装 `epub2md`，打开 PowerShell 或 CMD，执行：
 
 ```powershell
