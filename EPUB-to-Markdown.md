@@ -49,8 +49,10 @@ epub2md --version
 ## 📌 3. 手动执行 EPUB → Markdown 转换
 
 安装完成后，你可以在 PowerShell 或 CMD 中运行以下命令，将 EPUB 文件转换为 Markdown：
-
+（我的文件放在D盘，所以先切换D盘，然后进入正确的文件目录）
 ```powershell
+D:
+cd "电子书"
 epub2md -M "D:\电子书\example.epub"
 ```
 
